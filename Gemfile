@@ -46,4 +46,5 @@ group :development do
 end
 
 ## GPIO -- RaspPi
-gem 'rpi_gpio'
+## Need to change this so it only runs while on the pi
+## gem 'rpi_gpio'
