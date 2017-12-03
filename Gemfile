@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+## GPIO -- RaspPi
+gem 'rpi_gpio'
